@@ -15,11 +15,3 @@ This Java Project on Expenditure Analyzer is an application designed to help ind
 ## Have a look at how this application works
 
 - [ExpenditureAnalyzer - Demonstration](https://youtu.be/ahIfK1xOvl0)
-
-## Try out the project yourself
-
-- [ExpenditureAnalyzerSetup.exe](https://drive.google.com/uc?export=download&id=1Oh9JchCQQI14CbDtQQo7hhIe_UM3SyjE)
-
-## Support
-
-For feedback/bugs, reach out on mohammedamink4@gmail.com
